@@ -2,7 +2,6 @@
     height: 90px;
     background-color: rgb(78, 160, 255);
     background-image: url(../img/pattern.png);
-    /* background-size: contain; */
     background-size: 40%;
     background-repeat: repeat;
 }
@@ -69,3 +68,33 @@ tr {
 .row_2, .row_4 {
     background-color: aquamarine;
 }
+
+.footer_title {
+    color: gray;
+    font-size: large;
+}
+
+.footer_photo_1, .footer_photo_2 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+}
+
+.footer_photo_1 {
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 20px;
+    
+}
+
+.footer_photo_2 {
+    width: 311px;
+    height: 207px;
+    background-image: url(../img/graph.jpg);
+}
+
+footer > div > span{   
+    margin-left: 15px;
+  }
