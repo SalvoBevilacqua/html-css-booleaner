@@ -1,3 +1,13 @@
-body {
-    background-color: aquamarine;
+.background {
+    height: 90px;
+    background-color: rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+    /* background-size: contain; */
+    background-size: 40%;
+    background-repeat: repeat;
+}
+
+.background>.logo {
+    width: 170px;
+    margin-top: 40px;
 }
