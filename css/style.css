@@ -38,3 +38,8 @@
     margin-bottom: 0;
     font-size: small;
 }
+
+ul {
+    margin-left: 0;
+    padding-left: 15px;
+}
