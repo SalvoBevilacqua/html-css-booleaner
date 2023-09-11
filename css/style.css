@@ -72,13 +72,13 @@ table {
     background-repeat: no-repeat;
     font-size: larger;
     color: rgb(255, 255, 255);
+    margin-bottom: 20px;
 }
 
 .footer_photo_1 {
     width: 312px;
     height: 208px;
-    background-image: url(../img/monitor.jpg);
-    margin-bottom: 20px;    
+    background-image: url(../img/monitor.jpg);    
 }
 
 .footer_photo_2 {
