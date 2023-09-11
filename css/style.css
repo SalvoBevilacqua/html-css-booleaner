@@ -44,13 +44,9 @@ ul {
 }
 
 table {
-    width: 55%;
+    width: 80%;
     text-align: left;
     vertical-align: center;
-}
-
-tr {
-    display: inline-block;
 }
 
 .column_1, .column_2 {
