@@ -28,3 +28,13 @@
 .author {
     color: rgb(78, 160, 255);
 }
+
+/* .photo {
+    width: 1100px;
+} */
+
+.caption {
+    margin-top: 3px;
+    margin-bottom: 0;
+    font-size: small;
+}
